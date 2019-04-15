@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gp Calculator</string>
+    <string name="welcome_note">Welcome to GP Calculator!</string>
+    <string name="number_of_courses_hint">Enter number of courses</string>
+    <string name="exit_button">Exit</string>
+    <string name="enter_button">Enter</string>
+    <string name="courses">Courses</string>
+    <string name="credit_unit">Credit Unit</string>
+    <string name="grade">Grade</string>
+    <string name="c1">1.</string>
+    <string name="back">Back</string>
+    <string name="calculate">Calculate</string>
+</resources>
